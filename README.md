@@ -9,7 +9,7 @@ Integrante: **Gatica , Emmanuel David.**
 
 ## Proyecto: Diseño y creación de tablas de bases de datos.
 
-**Proyecto desarrollado en Jdeveloper 12.1.3 y en 11.1.2**
+**Proyecto desarrollado en Jdeveloper 11.1.2**
 
 Este proyecto, creará una aplicación y un proyecto para organizar los archivos de su base de datos. 
 Usted se conecta a una base de datos y crea un nuevo usuario, luego trabaja en Oracle JDeveloper para crear una base de datos fuera de línea a la que le aplicará ingeniería inversa.
